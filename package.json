@@ -1,0 +1,14 @@
+{
+  "name": "song-tabs",
+  "version": "0.0.1",
+  "description": "Get tabs of a song.",
+  "bin": {
+    "tabs": "tabs.js"
+  },
+  "author": "waky",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "scrape-it": "^3.3.2"
+  }
+}
